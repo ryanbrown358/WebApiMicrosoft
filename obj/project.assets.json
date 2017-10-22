@@ -12540,11 +12540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ryanb\\Desktop\\TodoAPi\\TodoAPi.csproj",
+      "projectUniqueName": "c:\\Users\\ryanb\\Desktop\\TodoAPi\\TodoAPi.csproj",
       "projectName": "TodoAPi",
-      "projectPath": "C:\\Users\\ryanb\\Desktop\\TodoAPi\\TodoAPi.csproj",
+      "projectPath": "c:\\Users\\ryanb\\Desktop\\TodoAPi\\TodoAPi.csproj",
       "packagesPath": "C:\\Users\\ryanb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ryanb\\Desktop\\TodoAPi\\obj\\",
+      "outputPath": "c:\\Users\\ryanb\\Desktop\\TodoAPi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
